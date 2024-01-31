@@ -22,7 +22,7 @@
 ※クリックすると各調査結果に飛びます
 
 * [Knowledge](./Knowledge/README.md)
-* GROWI
+* [GROWI](./GROWI/README.md)
 * Outline
 * WordPress  
   ※プラグイン使えばいけるか？
